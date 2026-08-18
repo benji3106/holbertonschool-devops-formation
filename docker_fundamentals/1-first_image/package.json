@@ -1,0 +1,12 @@
+{
+  "name": "first-image-app",
+  "version": "1.0.0",
+  "description": "Tiny Express app for Docker Fundamentals exercise 1",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
